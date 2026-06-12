@@ -1,6 +1,6 @@
 # HemenUsta - CS50x Final Project
 
-### Project Video Tour: https://youtu.be/gE7t-5mnKe8
+### Project Video Tour:[ https://youtu.be/gE7t-5mnKe8](https://youtu.be/S5mgkoHd1I0?si=98jg1BCbAD_PfMgF)
 
 ## Description:
 HemenUsta is a web-based platform designed to connect local craftsmen (like plumbers, electricians, painters) with customers in their neighborhoods. It solves the real-world problem of finding trusted technical help quickly.
